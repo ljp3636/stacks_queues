@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1a92431-1886-42f4-b332-1ca14a8b9f2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Other/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count_longest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/count_longest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count_longest_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/count_longest_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/generate_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_binary_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/generate_binary_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matching_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/matching_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice-problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/reverse_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cAIOKtY8WK6RrZSySyQwHeO4rh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in matching_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in reverse_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in count_longest_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in generate_binary_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in matching_test.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in matching_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in reverse_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Flip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_longest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_binary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matching.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice-problems.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\Other" />
+      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea" />
+      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea\Project 2" />
+      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea\Project 2\Tests" />
+      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea\Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in matching_test.py">
+    <configuration name="pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/Tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/.idea/Tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/reverse_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Project 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/.idea/reverse_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in count_longest_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Project2/count_longest_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in matching_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Project 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Project2/matching_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in matching_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Other/matching_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in matching_test.py" />
+        <item itemvalue="Python tests.pytest in matching_test.py" />
+        <item itemvalue="Python tests.pytest in count_longest_test.py" />
+        <item itemvalue="Python tests.pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/reverse_test.py" />
+        <item itemvalue="Python tests.pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a92431-1886-42f4-b332-1ca14a8b9f2e" name="Changes" comment="" />
+      <created>1707547922791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707547922791</updated>
+      <workItem from="1707949807475" duration="613000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project 2">
+      <option name="closed" value="true" />
+      <created>1708012743790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708012743790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project 2">
+      <option name="closed" value="true" />
+      <created>1708013306564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708013306564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Project 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.idea/Stack.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
