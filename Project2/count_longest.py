@@ -5,34 +5,28 @@
 # ASSIGNMENT:   Project 2: Stacks & Queues
 
 from Project2.Queue import Queue
-
-
 # count longest sequence of duplicates in a queue
 # can destroy the queue & make it empty
 def count_longest(queue):
     len = 0
-    # FIXME
     count = 1
-    value = queue.deq()
-
-    print("queue is empty ", queue.is_empty())
-    print("queue contains ", queue)
 
     if queue.is_empty():
         return 0
-    if queue.size() == 1:
-        return 1
 
-    while not queue.is_empty():
-        if queue.front() != value:
+    value = queue.deq() #store the first value in queue
+
+    while not queue.is_empty():  #Loop through Queue
+        if queue.front() != value:   #if the next value in queue doesn't match
             value = queue.deq()
-            if count > len:
+            if count > len:         #check if the last sequence was longer than the previous longest
                 len = count
             count = 1
-        else:
+        else:                   #If value in queue matches stored value increment counter
             count += 1
             queue.deq()
-    if count <= len:
+
+    if count <= len:        #check to see if the last sequence was longest
         pass
     else:
         len = count

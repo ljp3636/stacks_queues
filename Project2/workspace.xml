@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a92431-1886-42f4-b332-1ca14a8b9f2e" name="Changes" comment="">
+    <list default="true" id="f1a92431-1886-42f4-b332-1ca14a8b9f2e" name="Changes" comment="Project 2">
+      <change afterPath="$PROJECT_DIR$/Other/2DimArraySum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/DictionaryActivity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/PrintStaircase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/addMinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/decimalsize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week6/ArraysAndFiles1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week6/TicTacToe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week6/Week6Output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week6/turing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/count_longest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project2/count_longest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project2/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/Queue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Other/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other/Stack.py" afterDir="false" />
@@ -26,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -50,46 +62,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in matching_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in reverse_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in Tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in count_longest_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in generate_binary_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in matching_test.py (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in matching_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in reverse_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Flip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Queue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Stack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_longest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generate_binary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matching.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice-problems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverse.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests in matching_test.py.executor": "Run",
+    "Python tests.Python tests in reverse_test.py.executor": "Run",
+    "Python tests.pytest in Tests.executor": "Run",
+    "Python tests.pytest in count_longest_test.py.executor": "Run",
+    "Python tests.pytest in generate_binary_test.py.executor": "Run",
+    "Python tests.pytest in matching_test.py (1).executor": "Run",
+    "Python tests.pytest in matching_test.py.executor": "Run",
+    "Python tests.pytest in reverse_test.py.executor": "Run",
+    "Python.2DimArraySum.executor": "Run",
+    "Python.ArraysAndFiles1.executor": "Run",
+    "Python.DictionaryActivity.executor": "Run",
+    "Python.Flip.executor": "Run",
+    "Python.PrintStaircase.executor": "Run",
+    "Python.Queue.executor": "Run",
+    "Python.Stack.executor": "Run",
+    "Python.TicTacToe.executor": "Run",
+    "Python.addMinMax.executor": "Run",
+    "Python.count_longest.executor": "Run",
+    "Python.decimalsize.executor": "Run",
+    "Python.generate_binary.executor": "Run",
+    "Python.matching.executor": "Run",
+    "Python.practice-problems.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.reverse.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/JOC/turing.txt",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\Project2" />
       <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\Other" />
       <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea" />
       <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea\Project 2" />
       <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea\Project 2\Tests" />
-      <recent name="C:\Users\aclmm\OneDrive\Documents\GitHub\stacks_queues\.idea\Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in matching_test.py">
+  <component name="RunManager">
     <configuration name="pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/Tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="stacks_queues" />
       <option name="ENV_FILES" value="" />
@@ -177,9 +196,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in matching_test.py" />
-        <item itemvalue="Python tests.pytest in matching_test.py" />
         <item itemvalue="Python tests.pytest in count_longest_test.py" />
+        <item itemvalue="Python tests.pytest in matching_test.py" />
+        <item itemvalue="Python tests.pytest in matching_test.py" />
         <item itemvalue="Python tests.pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/reverse_test.py" />
         <item itemvalue="Python tests.pytest in C:/Users/aclmm/OneDrive/Documents/GitHub/stacks_queues/.idea/Tests" />
       </list>
@@ -218,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708013306564</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Project 2">
+      <option name="closed" value="true" />
+      <created>1708014379873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708014379873</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +257,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.idea/Stack.py</url>
+          <url>file://$PROJECT_DIR$/Project2/Stack.py</url>
           <line>46</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

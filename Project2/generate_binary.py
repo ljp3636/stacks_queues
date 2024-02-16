@@ -16,22 +16,24 @@ def generate_binary_numbers(N):
     num = 0
     bin_num = ""
 
-    if N >= 1:  # If N is less than 1 return the empty Queue()
-        numbers.enq("1")  # add 1 (binary #1) to every binary number
+    if N < 1:  # If N is less than 1 return the empty Queue()
+        return numbers
 
-        for i in range(N-1):
-            num = i + 2 #Start at 2
+    numbers.enq("1")  # add 1 (binary #1) to every binary number
 
-            while num > 0:   #Calculates binary number in reverse and adds to stack
-                s.push(num % 2)
-                num //= 2
+    for i in range(N-1):
+        num = i + 2 #Start at 2
 
-            while not s.is_empty():  #moves binary number in correct order to string
-                bin_num += str(s.pop())
+        while num > 0:   #Calculates binary number in reverse and adds to stack
+            s.push(num % 2)
+            num //= 2
 
-            numbers.enq(bin_num)    #add to queue
-            bin_num = ""
-            i += 1
+        while not s.is_empty():  #moves binary number in correct order to string
+            bin_num += str(s.pop())
+
+        numbers.enq(bin_num)    #add to queue
+        bin_num = ""
+        i += 1
 
     return numbers
 

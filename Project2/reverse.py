@@ -1,7 +1,7 @@
 # MODIFY ME TO IMPLEMENT YOUR SOLUTION
 # TO PROBLEM 1: REVERSE QUEUE
 #
-# NAME:         FIXME
+# NAME:         Laura Anderon
 # ASSIGNMENT:   Project 2: Stacks & Queues
 
 from Queue import Queue
@@ -12,8 +12,8 @@ from Stack import Stack
 # Hint: can use a stack to help
 def reverse(q_orig):
     q_new = Queue([])
-    length = q_orig.size()
     s = Stack()
+    length = q_orig.size()
 
     # Copy data from queue into new stack
     while q_orig.is_empty() != True:

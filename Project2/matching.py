@@ -13,6 +13,7 @@ def matcher(braces):
     strlen = len(braces)
     str_open = "([{"
     str_closed = ")}]"
+
     i = 0
 
     while i < strlen:
